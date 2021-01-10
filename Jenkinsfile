@@ -8,10 +8,5 @@ pipeline {
 				}
 			}
 		}
-		stage ('Deploy') {
-			steps {
-			    
-			}
-		}
 	}
 }
